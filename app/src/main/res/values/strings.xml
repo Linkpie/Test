@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="Toast">Привет Володя!</string>
+    <string name="Button">Кнопка</string>
+    <string name="menu_setting">Setting</string>
+    <string name="search">Search</string>
+</resources>
